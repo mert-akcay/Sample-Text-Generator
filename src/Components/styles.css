@@ -1,0 +1,37 @@
+
+.header {
+    font-size: 46px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin : 30px auto 18px
+}
+
+hr {
+    width: 107vh;
+}
+
+.container {
+    width: 107vh;
+    height: 100vh;
+    text-align: center;
+    display: block;
+    margin: 0 auto 0;
+}
+
+.p-text {
+    margin-left:0;
+    float:left;
+    font-size: 16px;
+    color: white;
+}
+
+.textholder {
+    text-align: left;
+    margin-top: 10vh;
+    width: 100%;
+    
+    border-radius: 10px;
+    padding: 45px 20px;
+    background-color: #303030;
+    font-weight:500;
+    color: white;
+}
